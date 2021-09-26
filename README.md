@@ -1,5 +1,7 @@
 # [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vishwesh5/manning_tf2_in_action/HEAD)
+
 This project is the code repository for [TensorFlow 2.0 in Action](https://www.manning.com/books/tensorflow-in-action?utm_source=thushv&utm_medium=affiliate&utm_campaign=book_ganegedara_tensorflow_10_13_20&a_aid=thushv&a_bid=a9e673f5).
 
 ## Video Guides for Installation
